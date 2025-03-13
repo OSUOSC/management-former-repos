@@ -8,3 +8,6 @@ browsable compressions of source code for any and all to peruse.
 
 This repository is not licensed unto itself; each repository contained herein comes
 attached with its own license.
+
+This is **not** an actively used repository. It is only used for record keeping, hence why
+it has been archived so soon after creation.
